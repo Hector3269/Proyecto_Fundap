@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetos/tamaño_letra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetos/tipo_letra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contenedores/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objetos/tamaño.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="rama1" />
+        <entry key="$PROJECT_DIR$" value="rama2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,7 +64,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.manager.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;rama3&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;
   }
 }</component>
@@ -101,6 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>

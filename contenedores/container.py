@@ -9,17 +9,16 @@ from objetos.tamaño_y import TAMAÑO_Y
 
 
 class Container(tk.Frame):
-    def __init__(self, padre, controlador):
+    def __init__(self, padre, controloador):
         super().__init__(padre)
-        self.controlador = controlador
+        self.controlador = controloador
         self.pack()
         self.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
-            y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ANCHO.ANCHO_CONTAINER.value,
-            height=ALTO.ALTO_CONTAINER.value
+            y =TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
+            width = ANCHO.ANCHO_CONTAINER.value,
+            height =ALTO.ALTO_CONTAINER.value
         )
-
         self.config(
-            bg=COLORES.HEX.value
+            bg=COLORES.LAWNGREEN.value
         )
