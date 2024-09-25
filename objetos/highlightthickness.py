@@ -1,4 +1,4 @@
 from enum import Enum
 
-class hgckness (Enum):
+class HGCKNESS (Enum):
     TAMAÑO_NESS =1
