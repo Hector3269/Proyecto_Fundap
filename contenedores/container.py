@@ -1,6 +1,8 @@
 from tkinter import *
 import tkinter as tk
+from PIL import Image, ImageTk
 
+from objetos.Imagen_resize import Imagen_resize
 from objetos.alto import ALTO
 from objetos.ancho import ANCHO
 from objetos.colores import COLORES
@@ -12,6 +14,7 @@ from objetos.tipo_letra import Tipo_Letra
 from views.inventario import INVENTARIO
 from views.ventas import VENTAS
 import objetos.titulos as TITULOS
+import objetos.imagen as img
 
 
 class Container(tk.Frame):
@@ -85,3 +88,40 @@ class Container(tk.Frame):
             width = ANCHO.ANCHO_BOTON.value,
             height =ALTO.ALTO_BOTON.value
         )
+
+        btn_inventario= Button(
+            frame1,
+            font=(
+                Tipo_Letra.ARIAL,
+                Tamaño_letra.MEDIANA_TAMAÑO_LETRA.value
+            ),
+            bg=COLORES.ORANGEGERED.value,
+            fg=COLORES.WHITE.value,
+            text=TITULOS.TITULO_INVENTARIO,
+            command=self.inventario
+        )
+        btn_inventario.place(
+            x=TAMAÑO_X.TAMAÑO_BOTON_X.value,
+            y=TAMAÑO_Y.TAMAÑO_BOTON_2_Y.value,
+            width=ANCHO.ANCHO_BOTON.value,
+            height=ALTO.ALTO_BOTON.value
+        )
+
+        self.logo_imagen = Image.open(
+            img.IMAGEN_CAJA_REGISTRADORA
+        )
+        self.logo_imagen = self.logo_imagen.resize((
+            Imagen_resize.IMAGEN_TAMAÑO_RESIZE.value
+        ))
+        self.logo_imagen = ImageTk.PhotoImage(
+            self.logo_imagen
+        )
+        self.logo_label = tk.Label(
+            frame1, image=self.logo_imagen, bg=COLORES.HEX.value
+        )
+        self.logo_label.place(
+            x=TAMAÑO_X.LOGO_X.value,
+            y=TAMAÑO_Y.LOGO_Y.value,
+        )
+
+

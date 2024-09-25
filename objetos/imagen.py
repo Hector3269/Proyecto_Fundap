@@ -1,0 +1,1 @@
+IMAGEN_CAJA_REGISTRADORA ="imagenes/CajaRegistrasora.png"

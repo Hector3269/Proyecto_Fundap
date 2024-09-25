@@ -5,3 +5,5 @@ class TAMAÑO_X (Enum):
     TAMAÑO_CINCO_X = 5
 
     TAMAÑO_BOTON_X = 500
+
+    LOGO_X =100

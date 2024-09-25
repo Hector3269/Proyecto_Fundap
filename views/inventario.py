@@ -4,6 +4,7 @@ from tkinter import ttk, messagebox
 
 from objetos.alto import ALTO
 from objetos.ancho import ANCHO
+from objetos.anchor import ANCHOR1
 from objetos.colores import COLORES
 from objetos.highlightthickness import HGCKNESS
 from objetos.tamaño_letra import Tamaño_letra
@@ -39,7 +40,9 @@ class INVENTARIO(tk.Frame):
             font=(
                 Tipo_Letra.NEGRITA,
                 Tamaño_letra.GRANDE_TAMAÑO.value
-            )
+            ),
+            bg = COLORES.ORANGEGERED.value,
+            anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         titulo.pack()
         titulo.place(
@@ -47,5 +50,4 @@ class INVENTARIO(tk.Frame):
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
             width=ALTO.NORMAL_ALTO.value,
             height=ANCHO.NORMAL_ANCHO.value
-
         )

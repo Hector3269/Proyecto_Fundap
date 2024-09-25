@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/objetos/anchor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetos/imagen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/highlightthickness.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contenedores/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="rama3" />
+        <entry key="$PROJECT_DIR$" value="rama1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,9 +57,9 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.main.executor": "Run",
-    "Python.manager.executor": "Debug",
+    "Python.manager.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rama4",
+    "git-widget-placeholder": "#4 on rama4",
     "last_opened_file_path": "C:/Users/hector/Desktop/pythonProject"
   }
 }]]></component>
@@ -72,11 +67,8 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hector\Desktop\pythonProject" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hector\Desktop\pythonProject" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.manager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -123,11 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.manager" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -150,11 +139,40 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fde6fc99-b512-4d88-a908-28b02fd621bb" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="fde6fc99-b512-4d88-a908-28b02fd621bb">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="origin/main..origin/rama4" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
