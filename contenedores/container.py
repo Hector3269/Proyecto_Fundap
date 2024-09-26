@@ -6,6 +6,7 @@ from objetos.Imagen_resize import Imagen_resize
 from objetos.alto import ALTO
 from objetos.ancho import ANCHO
 from objetos.colores import COLORES
+from objetos.fill import FILL
 from objetos.tamaño import GEOMETRIA
 from objetos.tamaño_letra import Tamaño_letra
 from objetos.tamaño_x import TAMAÑO_X
@@ -39,7 +40,7 @@ class Container(tk.Frame):
             bg=COLORES.HEX.value
         )
         frame.pack(
-            fill="both",
+            fill=FILL.BOTH.value,
             expand=True
         )
         top_level.geometry(
@@ -117,11 +118,28 @@ class Container(tk.Frame):
             self.logo_imagen
         )
         self.logo_label = tk.Label(
-            frame1, image=self.logo_imagen, bg=COLORES.HEX.value
+            frame1,
+            image=self.logo_imagen,
+            bg=COLORES.HEX.value
         )
         self.logo_label.place(
             x=TAMAÑO_X.LOGO_X.value,
             y=TAMAÑO_Y.LOGO_Y.value,
+        )
+
+        copyright_label = tk.Label(
+            frame1,
+            text=TITULOS.COPYRIGHT_L,
+            font=(
+                Tipo_Letra.ARIAL,
+                Tamaño_letra.NORMAL_TAMAÑO_LETRA.value
+            ),
+            bg=COLORES.HEX.value,
+            fg=COLORES.GRAY.value
+        )
+        copyright_label.place(
+            x=TAMAÑO_X.COPYRIGHT_X.value,
+            y=TAMAÑO_Y.COPYRIGHT_Y.value
         )
 
 

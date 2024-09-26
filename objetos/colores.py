@@ -4,7 +4,6 @@ class COLORES (Enum):
     HEX = "#C6D9E3"
     BLACK = "#000000"
     WHITE = "#FFFFFF"
-    HEX_ASUL = "#C6D9E3"
     GOLD = "#FFD700"
     GRAY = "gray"
     GREENYELLOW = "#ADFF2F"
