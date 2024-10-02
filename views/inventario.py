@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter as tk
 from tkinter import ttk, messagebox
 
+# objetos
 from objetos.alto import ALTO
 from objetos.ancho import ANCHO
 from objetos.anchor import ANCHOR1
@@ -31,8 +32,8 @@ class INVENTARIO(tk.Frame):
         frame1.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ALTO.NORMAL_ALTO.value,
-            height=ANCHO.NORMAL_ANCHO.value
+            width=ANCHO.NORMAL_ANCHO.value,
+            height=ALTO.NORMAL_ALTO.value
         )
         titulo = tk.Label(
             frame1,
@@ -48,8 +49,8 @@ class INVENTARIO(tk.Frame):
         titulo.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ALTO.NORMAL_ALTO.value,
-            height=ANCHO.NORMAL_ANCHO.value
+            width=ANCHO.NORMAL_ANCHO.value,
+            height=ALTO.NORMAL_ALTO.value
         )
         # Frame inferior
         frame2 = tk.Frame(
@@ -61,7 +62,7 @@ class INVENTARIO(tk.Frame):
         frame2.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_FRAME_2_X.value,
-            width=ANCHO.ANCHO_FRAME2.value,
+            width=ANCHO.NORMAL_ANCHO.value,
             height=ALTO.ALTO_FRAME2.value
         )
 
@@ -77,10 +78,10 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         labelframe.place(
-            x=20,
-            y=30,
-            width=400,
-            height=500
+            x=TAMAÑO_X.LABEL_FLAME_1_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME.value,
+            height=ALTO.ALTO_LABEL_FLAME.value
         )
 
         lblnombre = Label(
@@ -94,8 +95,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         lblnombre.place(
-            x=10,
-            y=20
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_Y.value
         )
         self.nombre = ttk.Entry(
             labelframe,
@@ -105,10 +106,10 @@ class INVENTARIO(tk.Frame):
             ),
         )
         self.nombre.place(
-            x=140,
-            y=20,
-            width=240,
-            height=40
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_2_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_FORM.value,
+            height=ALTO.ALTO_LABEL_FLAME_FORM.value
         )
 
         lblproveedor = Label(
@@ -122,8 +123,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         lblproveedor.place(
-            x=10,
-            y=80
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_2_Y.value,
         )
         self.proveedor = ttk.Entry(
             labelframe,
@@ -133,10 +134,10 @@ class INVENTARIO(tk.Frame):
             ),
         )
         self.proveedor.place(
-            x=140,
-            y=80,
-            width=240,
-            height=40
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_2_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_2_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_FORM.value,
+            height=ALTO.ALTO_LABEL_FLAME_FORM.value
         )
 
         lblprecio = Label(
@@ -150,8 +151,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         lblprecio.place(
-            x=10,
-            y=140
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_3_Y.value
         )
         self.precio = ttk.Entry(
             labelframe,
@@ -161,10 +162,10 @@ class INVENTARIO(tk.Frame):
             ),
         )
         self.precio.place(
-            x=140,
-            y=140,
-            width=240,
-            height=40
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_2_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_3_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_FORM.value,
+            height=ALTO.ALTO_LABEL_FLAME_FORM.value
         )
 
         lblcosto = Label(
@@ -178,8 +179,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         lblcosto.place(
-            x=10,
-            y=200
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_4_Y.value
         )
         self.costo = ttk.Entry(
             labelframe,
@@ -189,10 +190,10 @@ class INVENTARIO(tk.Frame):
             )
         )
         self.costo.place(
-            x=140,
-            y=200,
-            width=240,
-            height=40
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_2_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_4_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_FORM.value,
+            height=ALTO.ALTO_LABEL_FLAME_FORM.value
         )
 
         lblexistencias = Label(
@@ -206,8 +207,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         lblexistencias.place(
-            x=10,
-            y=260
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_5_Y.value
         )
         self.existencias = ttk.Entry(
             labelframe,
@@ -217,10 +218,10 @@ class INVENTARIO(tk.Frame):
             )
         )
         self.existencias.place(
-            x=140,
-            y=260,
-            width=240,
-            height=40
+            x=TAMAÑO_X.LABEL_FLAME_COMUN_2_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INVENTARIO_5_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_FORM.value,
+            height=ALTO.ALTO_LABEL_FLAME_FORM.value
         )
 
         boton_agregar = tk.Button(
@@ -234,8 +235,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         boton_agregar.place(
-            x=80,
-            y=340,
+            x=TAMAÑO_X.BTN_AGREGAR_X.value,
+            y=TAMAÑO_Y.BTN_AGREGAR_Y.value,
             width=ANCHO.ANCHO_BOTON_INVENTARIO.value,
             height=ALTO.ALTO_BOTON_INVENTARIO.value
         )
@@ -251,8 +252,8 @@ class INVENTARIO(tk.Frame):
             fg = COLORES.BLACK.value
         )
         boton_editar.place(
-            x=80,
-            y=400,
+            x=TAMAÑO_X.BTN_EDITAR_X.value,
+            y=TAMAÑO_Y.BTN_EDITAR_Y.value,
             width=ANCHO.ANCHO_BOTON_INVENTARIO.value,
             height=ALTO.ALTO_BOTON_INVENTARIO.value
         )
@@ -263,10 +264,10 @@ class INVENTARIO(tk.Frame):
             bg=COLORES.WHITE.value
         )
         treFrame.place(
-            x=440,
-            y=50,
-            width=620,
-            height=400
+            x=TAMAÑO_X.TREEVIEW_X.value,
+            y=TAMAÑO_Y.TREEVIEW_Y.value,
+            width=ANCHO.ANCHO_TEEVIEW.value,
+            height=ALTO.ALTO_TEEVIEW.value
         )
 
         # Barra de desplazamiento vertical
@@ -293,7 +294,7 @@ class INVENTARIO(tk.Frame):
             treFrame,
             yscrollcommand=scrol_y.set,
             xscrollcommand=scrol_x.set,
-            height=40,
+            height=ALTO.ALTO_TEEVIEW_WIDGET.value,
             columns=(
                 "ID",
                 "PRODUCTO",
@@ -343,32 +344,32 @@ class INVENTARIO(tk.Frame):
 
         self.tre.column(
             "ID",
-            width=70,
+            width=ANCHO.ANCHO_TEEVIEW_NORMAL_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         self.tre.column(
             "PRODUCTO",
-            width=100,
+            width=ANCHO.ANCHO_TEEVIEW_MEDIANO_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         self.tre.column(
             "PROVEEDOR",
-            width=100,
+            width=ANCHO.ANCHO_TEEVIEW_MEDIANO_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         self.tre.column(
             "PRECIO",
-            width=100,
+            width=ANCHO.ANCHO_TEEVIEW_MEDIANO_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         self.tre.column(
             "COSTO",
-            width=100,
+            width=ANCHO.ANCHO_TEEVIEW_MEDIANO_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
         self.tre.column(
             "EXISTENCIAS",
-            width=70,
+            width=ANCHO.ANCHO_TEEVIEW_MEDIANO_WIDGET.value,
             anchor=ANCHOR1.ANCHOR_CENTRO.value
         )
 
@@ -384,8 +385,8 @@ class INVENTARIO(tk.Frame):
             fg=COLORES.BLACK.value
         )
         btn_actualizar.place(
-            x=440,
-            y=480,
+            x=TAMAÑO_X.BTN_ACTUALIZAR_X.value,
+            y=TAMAÑO_Y.BTN_ACTUALIZAR_Y.value,
             width=ANCHO.ANCHO_BOTON_INVENTARIO.value,
             height=ALTO.ALTO_BOTON_INVENTARIO.value
         )

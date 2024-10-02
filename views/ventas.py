@@ -32,8 +32,8 @@ class VENTAS(tk.Frame):
         frame1.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ALTO.NORMAL_ALTO.value,
-            height=ANCHO.NORMAL_ANCHO.value
+            width=ANCHO.NORMAL_ANCHO.value,
+            height=ALTO.NORMAL_ALTO.value
         )
 
         titulo = tk.Label(
@@ -50,8 +50,8 @@ class VENTAS(tk.Frame):
         titulo.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ALTO.NORMAL_ALTO.value,
-            height=ANCHO.NORMAL_ANCHO.value
+            width=ANCHO.NORMAL_ANCHO.value,
+            height=ALTO.NORMAL_ALTO.value
 
         )
         frame2 = tk.Frame(
@@ -63,7 +63,7 @@ class VENTAS(tk.Frame):
         frame2.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_FRAME_2_X.value,
-            width=ANCHO.ANCHO_FRAME2.value,
+            width=ANCHO.NORMAL_ANCHO.value,
             height=ALTO.ALTO_FRAME2.value
 
         )
@@ -80,8 +80,8 @@ class VENTAS(tk.Frame):
         lblframe.place(
             x=TAMAÑO_X.LABEL_FLAME_X.value,
             y=TAMAÑO_Y.LABEL_FLAME_Y.value,
-            width=ANCHO.ANCHO_LABEL_FLAME.value,
-            height=ALTO.ALTO_LABEL_FLAME.value
+            width=ANCHO.ANCHO_LABEL_FLAME_VENTAS.value,
+            height=ALTO.ALTO_LABEL_FLAME_VENTAS.value
         )
 
         # Número de factura
@@ -111,7 +111,7 @@ class VENTAS(tk.Frame):
         self.entry_numero_factura.place(
             x=TAMAÑO_X.ENTRI_FACTURA_COMPLEMENTO_X.value,
             y=TAMAÑO_Y.ENTRI_FACTURA_COMPLEMENTO_Y.value,
-            width=80
+            width=ANCHO.ANCHO_INVENTARIO_ENTY.value
         )
         # Entradas de texto para el nuevo artículo
         label_nombre = tk.Label(
@@ -124,8 +124,8 @@ class VENTAS(tk.Frame):
             ),
         )
         label_nombre.place(
-            x=200,
-            y=12
+            x=TAMAÑO_X.ENTRI_NOMBRE_X.value,
+            y=TAMAÑO_Y.ENTRI.value
         )
         self.entry_nombre = ttk.Combobox(
             lblframe,
@@ -136,9 +136,9 @@ class VENTAS(tk.Frame):
             state=ESTADO.LECTURA.value
         )
         self.entry_nombre.place(
-            x=280,
-            y=10,
-            width=180
+            x=TAMAÑO_X.ENTRI_NOMBRE_COMPLEMENTO_X.value,
+            y=TAMAÑO_Y.ENTRI_COMPLEMENTO.value,
+            width=ANCHO.ANCHO_VENTAS_ENTY.value
         )
 
         label_valor = tk.Label(
@@ -151,8 +151,8 @@ class VENTAS(tk.Frame):
             )
         )
         label_valor.place(
-            x=470,
-            y=12
+            x=TAMAÑO_X.ENTRI_VALOR_X.value,
+            y=TAMAÑO_Y.ENTRI.value
         )
         self.entry_valor = ttk.Entry(
             lblframe,
@@ -163,9 +163,9 @@ class VENTAS(tk.Frame):
             state=ESTADO.LECTURA.value
         )
         self.entry_valor.place(
-            x=540,
-            y=10,
-            width=180
+            x=TAMAÑO_X.ENTRI_VALOR_COMPLEMENTO_X.value,
+            y=TAMAÑO_Y.ENTRI_COMPLEMENTO.value,
+            width=ANCHO.ANCHO_VENTAS_ENTY.value
         )
 
         self.entry_nombre.bind("<<ComboboxSelected>>")
@@ -181,8 +181,8 @@ class VENTAS(tk.Frame):
             ),
         )
         label_cantidad.place(
-            x=730,
-            y=12
+            x=TAMAÑO_X.ENTRI_CANTIDAD_X.value,
+            y=TAMAÑO_Y.ENTRI.value
         )
         self.entry_cantidad = ttk.Entry(
             lblframe,
@@ -192,9 +192,9 @@ class VENTAS(tk.Frame):
             )
         )
         self.entry_cantidad.place(
-            x=820,
-            y=10,
-            width=180
+            x=TAMAÑO_X.ENTRI_CANTIDAD_COMPLEMENTO_X.value,
+            y = TAMAÑO_Y.ENTRI_COMPLEMENTO.value,
+            width=ANCHO.ANCHO_VENTAS_ENTY.value
         )
 
         # Crear el contenedor del Treeview
@@ -203,10 +203,10 @@ class VENTAS(tk.Frame):
             bg=COLORES.HEX.value
         )
         treFrame.place(
-            x=150,
-            y=120,
-            width=800,
-            height=200
+            x=TAMAÑO_X.TREFRAME_VENTAS_X.value,
+            y=TAMAÑO_Y.TREFRAME_VENTAS_Y.value,
+            width=ANCHO.ANCHO_TRERFRAME_VENTAS.value,
+            height=ALTO.ALTO_TRERFRAME_VENTAS.value
         )
 
         # Barra de desplazamiento vertical
@@ -239,7 +239,7 @@ class VENTAS(tk.Frame):
                 TITULOS.COLUM_SUBTOTAL,
             ),
             show="headings",
-            height=10,
+            height=ALTO.ALTO_TEEVIEW_VENTAS.value,
             yscrollcommand=scrol_y.set,
             xscrollcommand=scrol_x.set
         )
@@ -299,10 +299,10 @@ class VENTAS(tk.Frame):
             )
         )
         lblframe1.place(
-            x=10,
-            y=380,
-            width=1060,
-            height=100
+            x=TAMAÑO_X.LBL_FRAME1_VETAS_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_INFERIOR_Y.value,
+            width=ANCHO.ANCHO_LABEL_FLAME_INFERIOR.value,
+            height=ALTO.ALTO_LABEL_FLAME_INFERIOR.value
         )
 
         # Botones
@@ -317,10 +317,10 @@ class VENTAS(tk.Frame):
             )
         )
         boton_agregar.place(
-            x=50,
-            y=10,
-            width=240,
-            height=50
+            x=TAMAÑO_X.BTN_AGREGAR_VENTAS_X.value,
+            y=TAMAÑO_Y.BTN_AGREGAR_VENTAS_Y.value,
+            width=ANCHO.ANCHO_BOTON_VENTAS.value,
+            height=ALTO.ALTO_BOTON_INVENTARIO.value
         )
 
         boton_pagar = tk.Button(
@@ -334,10 +334,10 @@ class VENTAS(tk.Frame):
             )
         )
         boton_pagar.place(
-            x=400,
-            y=10,
-            width=240,
-            height=50
+            x=TAMAÑO_X.BTN_PAGAR_VENTAS_X.value,
+            y=TAMAÑO_Y.BTN_PAGAR_VENTAS_Y.value,
+            width=ANCHO.ANCHO_BOTON_VENTAS.value,
+            height=ALTO.ALTO_BOTON_INVENTARIO.value
         )
 
         # Botón para abrir la ventana de facturas
@@ -352,10 +352,10 @@ class VENTAS(tk.Frame):
             )
         )
         boton_ver_facturas.place(
-            x=750,
-            y=10,
-            width=240,
-            height=50
+            x=TAMAÑO_X.BTN_PAGAR_VER_FACTURA_X.value,
+            y=TAMAÑO_Y.BTN_PAGAR_VER_FACTURA_Y.value,
+            width=ANCHO.ANCHO_BOTON_VENTAS.value,
+            height=ALTO.ALTO_BOTON_INVENTARIO.value
         )
 
 
@@ -369,8 +369,8 @@ class VENTAS(tk.Frame):
             )
         )
         self.label_suma_total.place(
-            x=360,
-            y=335
+            x=TAMAÑO_X.LABEL_FLAME_SUMA_X.value,
+            y=TAMAÑO_Y.LABEL_FLAME_SUMA_Y.value
         )
 
         copyright_label = tk.Label(
@@ -384,6 +384,6 @@ class VENTAS(tk.Frame):
 
         )
         copyright_label.place(
-            x=320,
-            y=500
+            x=TAMAÑO_X.COPYRIGHT_LABEL_X.value,
+            y=TAMAÑO_Y.COPYRIGHT_LABEL_Y.value
         )

@@ -12,7 +12,46 @@ class TAMAÑO_X (Enum):
 
     # Entradas de texto
     ENTRI_FACTURA_X = 10
+    ENTRI_NOMBRE_X = 200
+    ENTRI_VALOR_X = 470
+    ENTRI_CANTIDAD_X = 730
+
     ENTRI_FACTURA_COMPLEMENTO_X = 100
+    ENTRI_NOMBRE_COMPLEMENTO_X = 280
+    ENTRI_VALOR_COMPLEMENTO_X = 540
+    ENTRI_CANTIDAD_COMPLEMENTO_X = 820
 
     # copyright_label
     COPYRIGHT_X =180
+
+    #labelframe
+    LABEL_FLAME_1_X =20
+    LABEL_FLAME_COMUN_X = 10
+
+    # labelframe entada de texto
+    LABEL_FLAME_COMUN_2_X = 140
+
+    # TreeView Tabla
+    TREEVIEW_X= 440
+
+    # BOTONES
+    BTN_AGREGAR_X =80
+    BTN_EDITAR_X=80
+    BTN_ACTUALIZAR_X =440
+# VENTAS
+    LBL_FRAME1_VETAS_X=10
+    # TREFRAME
+    TREFRAME_VENTAS_X = 150
+
+    # BOTONES
+
+    BTN_AGREGAR_VENTAS_X =50
+    BTN_PAGAR_VENTAS_X = 400
+    BTN_PAGAR_VER_FACTURA_X = 750
+
+    # LABEL SUMA
+
+    LABEL_FLAME_SUMA_X =360
+
+    # copyright_label
+    COPYRIGHT_LABEL_X = 320

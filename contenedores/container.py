@@ -27,8 +27,7 @@ class Container(tk.Frame):
         self.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y =TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width = ANCHO.ANCHO_CONTAINER.value,
-            height =ALTO.ALTO_CONTAINER.value
+            width=800, height=400
         )
         self.config(
             bg=COLORES.HEX.value
@@ -66,8 +65,7 @@ class Container(tk.Frame):
         frame1.place(
             x=TAMAÑO_X.TAMAÑO_ZERO_X.value,
             y=TAMAÑO_Y.TAMAÑO_ZERO_Y.value,
-            width=ANCHO.ANCHO_CONTAINER.value,
-            height=ALTO.ALTO_CONTAINER.value
+            width=800, height=400
 
         )
     # botones
@@ -86,8 +84,8 @@ class Container(tk.Frame):
         btn_ventas.place(
             x= TAMAÑO_X.TAMAÑO_BOTON_X.value,
             y=TAMAÑO_Y.TAMAÑO_BOTON_Y.value,
-            width = ANCHO.ANCHO_BOTON.value,
-            height =ALTO.ALTO_BOTON.value
+            width =ALTO.ALTO_BOTON.value ,
+            height =ANCHO.ANCHO_BOTON.value
         )
 
         btn_inventario= Button(
@@ -104,8 +102,8 @@ class Container(tk.Frame):
         btn_inventario.place(
             x=TAMAÑO_X.TAMAÑO_BOTON_X.value,
             y=TAMAÑO_Y.TAMAÑO_BOTON_2_Y.value,
-            width=ANCHO.ANCHO_BOTON.value,
-            height=ALTO.ALTO_BOTON.value
+            width=ALTO.ALTO_BOTON.value,
+            height=ANCHO.ANCHO_BOTON.value,
         )
 
         self.logo_imagen = Image.open(

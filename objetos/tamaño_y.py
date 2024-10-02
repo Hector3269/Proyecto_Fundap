@@ -7,10 +7,26 @@ class TAMAÑO_Y (Enum):
     TAMAÑO_BOTON_2_Y= 130
 
     LOGO_Y = 30
-
     TAMAÑO_FRAME_2_X =100
-
+# Entradas de texto
+    ENTRI = 12
+    ENTRI_COMPLEMENTO = 10
+ # labelframe
     LABEL_FLAME_Y = 10
+    LABEL_FLAME_INVENTARIO_Y = 20
+    LABEL_FLAME_INVENTARIO_2_Y = 80
+    LABEL_FLAME_INVENTARIO_3_Y = 140
+    LABEL_FLAME_INVENTARIO_4_Y = 200
+    LABEL_FLAME_INVENTARIO_5_Y = 260
+
+    # BOTONES
+    BTN_AGREGAR_Y = 340
+    BTN_EDITAR_Y = 400
+    BTN_ACTUALIZAR_Y = 480
+
+    # TreeView Tabla
+    TREEVIEW_Y = 50
+
 
     # Entradas de texto
     ENTRI_FACTURA_Y = 5
@@ -18,3 +34,24 @@ class TAMAÑO_Y (Enum):
 
     # copyright_label
     COPYRIGHT_Y = 350
+
+# VENTAS
+    # TREFRAME
+    TREFRAME_VENTAS_Y = 150
+
+    # LabelFrame inferior
+
+    LABEL_FLAME_INFERIOR_Y = 400
+
+    # BOTONES
+
+    BTN_AGREGAR_VENTAS_Y = 10
+    BTN_PAGAR_VENTAS_Y=10
+    BTN_PAGAR_VER_FACTURA_Y =10
+
+    # LABEL SUMA
+
+    LABEL_FLAME_SUMA_Y = 350
+
+    # copyright_label
+    COPYRIGHT_LABEL_Y = 500
