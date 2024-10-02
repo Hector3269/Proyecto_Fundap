@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="Mejoras UI">
+      <change afterPath="$PROJECT_DIR$/DB/bace_datos_proyecto.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="rama4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -42,6 +31,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,
     &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Hector3269&quot;,
+    &quot;repository&quot;: &quot;Proyecto_Fundap&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -53,13 +52,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama4&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "rama5",
+    "settings.editor.selected.configurable": "com.promyze.appli.settings.AppSettingsConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hector\Desktop\pythonProject\DB" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -100,7 +105,28 @@
       <option name="presentableId" value="Default" />
       <updated>1727152643273</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mejoras UI">
+      <option name="closed" value="true" />
+      <created>1727840215395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727840215395</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mejoras UI">
+      <option name="closed" value="true" />
+      <created>1727840241232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727840241232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mejoras UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mejoras UI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
