@@ -1,0 +1,1198 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,10 +0,0 @@
+-Index: .idea/.gitignore
+-===================================================================
+-diff --git a/.idea/.gitignore b/.idea/.gitignore
+-new file mode 100644
+---- /dev/null	(date 1727330297970)
+-+++ b/.idea/.gitignore	(date 1727330297970)
+-@@ -0,0 +1,3 @@
+-+# Default ignored files
+-+/shelf/
+-+/workspace.xml
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,63 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/alto.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/ancho.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/titulos.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/container.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/container.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/manager.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/manager.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/colores.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/colores.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"rama1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hector3269&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,\r\n    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.manager.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;rama2&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision e7c60c32abb5e33d603a2ab902268378d50ab165)
+-+++ b/.idea/workspace.xml	(date 1727224559752)
+-@@ -5,17 +5,17 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
+--      <change afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/tamaño_letra.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/tipo_letra.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/contenedores/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/manager.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/tamaño.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -32,7 +32,7 @@
+-   <component name="Git.Settings">
+-     <option name="RECENT_BRANCH_BY_REPOSITORY">
+-       <map>
+--        <entry key="$PROJECT_DIR$" value="rama1" />
+-+        <entry key="$PROJECT_DIR$" value="rama2" />
+-       </map>
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-@@ -64,7 +64,7 @@
+-     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+-     &quot;Python.manager.executor&quot;: &quot;Run&quot;,
+-     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;git-widget-placeholder&quot;: &quot;rama2&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;rama3&quot;,
+-     &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;
+-   }
+- }</component>
+-@@ -101,6 +101,9 @@
+-     </configuration>
+-     <recent_temporary>
+-       <list>
+-+        <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.main" />
+-         <item itemvalue="Python.main" />
+-       </list>
+-     </recent_temporary>
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]" date="1727329531266" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 25/09/2024 23:45 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]" date="1727224522430" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 24/09/2024 18:35 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,114 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/anchor.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/container.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/container.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/alto.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/alto.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/ancho.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/ancho.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/highlightthickness.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/highlightthickness.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/titulos.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/titulos.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/inventario.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/inventario.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/ventas.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/ventas.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"rama3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hector3269&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,\r\n    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_MARK_IGNORED_FILES_AS_EXCLUDED\": \"true\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.manager.executor\": \"Debug\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"rama4\",\r\n    \"last_opened_file_path\": \"C:/Users/hector/Desktop/pythonProject\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.manager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"manager\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/contenedores\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/contenedores/manager.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.manager\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 52742b15184ae2062d84cc209d9abdbad67c3120)
+-+++ b/.idea/workspace.xml	(date 1727224531327)
+-@@ -5,50 +5,21 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
+--      <change afterPath="$PROJECT_DIR$/objetos/anchor.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/highlightthickness.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-     <option name="LAST_RESOLUTION" value="IGNORE" />
+--  </component>
+--  <component name="FileTemplateManagerImpl">
+--    <option name="RECENT_TEMPLATES">
+--      <list>
+--        <option value="Python Script" />
+--      </list>
+--    </option>
+-   </component>
+-   <component name="Git.Settings">
+-     <option name="RECENT_BRANCH_BY_REPOSITORY">
+-       <map>
+--        <entry key="$PROJECT_DIR$" value="rama3" />
+-+        <entry key="$PROJECT_DIR$" value="main" />
+-       </map>
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-   </component>
+--  <component name="GitHubPullRequestSearchHistory">{
+--  &quot;lastFilter&quot;: {
+--    &quot;state&quot;: &quot;OPEN&quot;,
+--    &quot;assignee&quot;: &quot;Hector3269&quot;
+--  }
+--}</component>
+--  <component name="GithubPullRequestsUISettings">{
+--  &quot;selectedUrlAndAccountId&quot;: {
+--    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,
+--    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;
+--  }
+--}</component>
+-   <component name="ProjectColorInfo">{
+-   &quot;associatedIndex&quot;: 2
+- }</component>
+-@@ -60,22 +31,11 @@
+-   </component>
+-   <component name="PropertiesComponent"><![CDATA[{
+-   "keyToString": {
+--    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+--    "Python.main.executor": "Run",
+--    "Python.manager.executor": "Debug",
+-+    "Python.manager.executor": "Run",
+-     "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "git-widget-placeholder": "rama4",
+--    "last_opened_file_path": "C:/Users/hector/Desktop/pythonProject"
+-+    "git-widget-placeholder": "rama4"
+-   }
+- }]]></component>
+--  <component name="RecentsManager">
+--    <key name="CopyFile.RECENT_KEYS">
+--      <recent name="C:\Users\hector\Desktop\pythonProject" />
+--    </key>
+--    <key name="MoveFile.RECENT_KEYS">
+--      <recent name="C:\Users\hector\Desktop\pythonProject" />
+--    </key>
+--  </component>
+-   <component name="RunManager" selected="Python.manager">
+-     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-       <module name="pythonProject" />
+-@@ -125,8 +85,7 @@
+-       <list>
+-         <item itemvalue="Python.manager" />
+-         <item itemvalue="Python.main" />
+--        <item itemvalue="Python.main" />
+--        <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.manager" />
+-         <item itemvalue="Python.main" />
+-       </list>
+-     </recent_temporary>
+-@@ -149,15 +108,4 @@
+-     </task>
+-     <servers />
+-   </component>
+--  <component name="Vcs.Log.Tabs.Properties">
+--    <option name="TAB_STATES">
+--      <map>
+--        <entry key="MAIN">
+--          <value>
+--            <State />
+--          </value>
+--        </entry>
+--      </map>
+--    </option>
+--  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,232 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 2e655e5af81830187ab8a1b0ac34af8f7cfbd3ef)
+-+++ b/.idea/workspace.xml	(date 1727330240638)
+-@@ -1,26 +1,137 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-+  <component name="AutoImportSettings">
+-+    <option name="autoReloadType" value="SELECTIVE" />
+-+  </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="" />
+-+    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="Megora de la interfas grafica">
+-+      <change afterPath="$PROJECT_DIR$/objetos/estado.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/fill.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/ubicacion.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-     <option name="LAST_RESOLUTION" value="IGNORE" />
+-   </component>
+--  <component name="ProjectColorInfo"><![CDATA[{
+--  "associatedIndex": 2
+--}]]></component>
+-+  <component name="FileTemplateManagerImpl">
+-+    <option name="RECENT_TEMPLATES">
+-+      <list>
+-+        <option value="Python Script" />
+-+      </list>
+-+    </option>
+-+  </component>
+-+  <component name="Git.Settings">
+-+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-+      <map>
+-+        <entry key="$PROJECT_DIR$" value="rama1" />
+-+      </map>
+-+    </option>
+-+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-+  </component>
+-+  <component name="GitHubPullRequestSearchHistory">{
+-+  &quot;lastFilter&quot;: {
+-+    &quot;state&quot;: &quot;OPEN&quot;,
+-+    &quot;assignee&quot;: &quot;Hector3269&quot;
+-+  }
+-+}</component>
+-+  <component name="GithubPullRequestsUISettings">{
+-+  &quot;selectedUrlAndAccountId&quot;: {
+-+    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,
+-+    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;
+-+  }
+-+}</component>
+-+  <component name="ProjectColorInfo">{
+-+  &quot;associatedIndex&quot;: 2
+-+}</component>
+-   <component name="ProjectId" id="2mVD2Yl0nfXabayJAq6X83NYEbz" />
+-   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "RunOnceActivity.ShowReadmeOnStart": "true"
+--  }
+--}]]></component>
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+-+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.manager.executor&quot;: &quot;Run&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;#4 on rama4&quot;,
+-+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;
+-+  }
+-+}</component>
+-+  <component name="RecentsManager">
+-+    <key name="CopyFile.RECENT_KEYS">
+-+      <recent name="C:\Users\hector\Desktop\pythonProject" />
+-+    </key>
+-+    <key name="MoveFile.RECENT_KEYS">
+-+      <recent name="C:\Users\hector\Desktop\pythonProject\objetos" />
+-+    </key>
+-+  </component>
+-+  <component name="RunManager" selected="Python.manager">
+-+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contenedores" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contenedores/manager.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.manager" />
+-+        <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.manager" />
+-+      </list>
+-+    </recent_temporary>
+-+  </component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+-@@ -37,6 +148,75 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1727152643273</updated>
+-     </task>
+-+    <task id="LOCAL-00001" summary="Megora de la interfas grafica">
+-+      <option name="closed" value="true" />
+-+      <created>1727226667532</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1727226667532</updated>
+-+    </task>
+-+    <task id="LOCAL-00002" summary="Megora de la interfas grafica">
+-+      <option name="closed" value="true" />
+-+      <created>1727226712086</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1727226712086</updated>
+-+    </task>
+-+    <task id="LOCAL-00003" summary="Megora de la interfas grafica">
+-+      <option name="closed" value="true" />
+-+      <created>1727226726363</created>
+-+      <option name="number" value="00003" />
+-+      <option name="presentableId" value="LOCAL-00003" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1727226726363</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="4" />
+-     <servers />
+-   </component>
+-+  <component name="Vcs.Log.Tabs.Properties">
+-+    <option name="OPEN_GENERIC_TABS">
+-+      <map>
+-+        <entry key="fde6fc99-b512-4d88-a908-28b02fd621bb" value="TOOL_WINDOW" />
+-+      </map>
+-+    </option>
+-+    <option name="TAB_STATES">
+-+      <map>
+-+        <entry key="MAIN">
+-+          <value>
+-+            <State />
+-+          </value>
+-+        </entry>
+-+        <entry key="fde6fc99-b512-4d88-a908-28b02fd621bb">
+-+          <value>
+-+            <State>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="range">
+-+                    <value>
+-+                      <list>
+-+                        <option value="origin/main..origin/rama4" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                  <entry key="roots">
+-+                    <value>
+-+                      <list>
+-+                        <option value="$PROJECT_DIR$" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-+            </State>
+-+          </value>
+-+        </entry>
+-+      </map>
+-+    </option>
+-+  </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="Megora de la interfas grafica" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Megora de la interfas grafica" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_1.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_1.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1" date="1727224544584" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 24/09/2024 18:35 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Changes]1" date="1727330444145" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,30 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"Megora de la interfas grafica\">\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/estado.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/fill.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/ubicacion.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/container.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/container.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/alto.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/alto.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/ancho.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/ancho.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/colores.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/colores.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/titulos.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/titulos.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/inventario.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/inventario.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/ventas.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/ventas.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"rama1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hector3269&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,\r\n    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.manager.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;#4 on rama4&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\\objetos\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.main\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"manager\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/contenedores\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/contenedores/manager.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.manager\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226667532</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226667532</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226712086</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226712086</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226726363</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226726363</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"fde6fc99-b512-4d88-a908-28b02fd621bb\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"fde6fc99-b512-4d88-a908-28b02fd621bb\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"range\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/main..origin/rama4\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"roots\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"$PROJECT_DIR$\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Megora de la interfas grafica\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Megora de la interfas grafica\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision eeaf124177be86ce9ed8c30468c6927cd696ba08)
+-+++ b/.idea/workspace.xml	(date 1727329891668)
+-@@ -5,19 +5,7 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="Megora de la interfas grafica">
+--      <change afterPath="$PROJECT_DIR$/objetos/estado.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/fill.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/ubicacion.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]" date="1727224575104" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 24/09/2024 18:36 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,99 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 2e655e5af81830187ab8a1b0ac34af8f7cfbd3ef)
+-+++ b/.idea/workspace.xml	(date 1727224228671)
+-@@ -1,5 +1,8 @@
+- <?xml version="1.0" encoding="UTF-8"?>
+- <project version="4">
+-+  <component name="AutoImportSettings">
+-+    <option name="autoReloadType" value="SELECTIVE" />
+-+  </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="" />
+-     <option name="SHOW_DIALOG" value="false" />
+-@@ -7,9 +10,12 @@
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-     <option name="LAST_RESOLUTION" value="IGNORE" />
+-   </component>
+--  <component name="ProjectColorInfo"><![CDATA[{
+--  "associatedIndex": 2
+--}]]></component>
+-+  <component name="Git.Settings">
+-+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-+  </component>
+-+  <component name="ProjectColorInfo">{
+-+  &quot;associatedIndex&quot;: 2
+-+}</component>
+-   <component name="ProjectId" id="2mVD2Yl0nfXabayJAq6X83NYEbz" />
+-   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-   <component name="ProjectViewState">
+-@@ -18,9 +24,62 @@
+-   </component>
+-   <component name="PropertiesComponent"><![CDATA[{
+-   "keyToString": {
+--    "RunOnceActivity.ShowReadmeOnStart": "true"
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "git-widget-placeholder": "main"
+-   }
+- }]]></component>
+-+  <component name="RunManager" selected="Python.manager">
+-+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contenedores" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contenedores/manager.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.manager" />
+-+        <item itemvalue="Python.main" />
+-+      </list>
+-+    </recent_temporary>
+-+  </component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,132 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"Hector3269\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/Hector3269/Proyecto_Fundap.git\",\r\n    \"accountId\": \"0d35b715-a6a8-4e98-846a-a20cf52847bf\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_MARK_IGNORED_FILES_AS_EXCLUDED\": \"true\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"rama1\",\r\n    \"last_opened_file_path\": \"C:/Users/hector/Desktop/pythonProject\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision d18fe3f3726777df445cd8faf11cf60252e683e4)
+-+++ b/.idea/workspace.xml	(date 1727224572240)
+-@@ -4,7 +4,19 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="" />
+-+    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
+-+      <change afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/contenedores/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/manager.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/tamaño.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño.py" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -20,45 +32,78 @@
+-   <component name="Git.Settings">
+-     <option name="RECENT_BRANCH_BY_REPOSITORY">
+-       <map>
+--        <entry key="$PROJECT_DIR$" value="main" />
+-+        <entry key="$PROJECT_DIR$" value="rama1" />
+-       </map>
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-   </component>
+--  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+--  "lastFilter": {
+--    "state": "OPEN",
+--    "assignee": "Hector3269"
+-+  <component name="GitHubPullRequestSearchHistory">{
+-+  &quot;lastFilter&quot;: {
+-+    &quot;state&quot;: &quot;OPEN&quot;,
+-+    &quot;assignee&quot;: &quot;Hector3269&quot;
+-   }
+--}]]></component>
+--  <component name="GithubPullRequestsUISettings"><![CDATA[{
+--  "selectedUrlAndAccountId": {
+--    "url": "https://github.com/Hector3269/Proyecto_Fundap.git",
+--    "accountId": "0d35b715-a6a8-4e98-846a-a20cf52847bf"
+-+}</component>
+-+  <component name="GithubPullRequestsUISettings">{
+-+  &quot;selectedUrlAndAccountId&quot;: {
+-+    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,
+-+    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;
+-   }
+--}]]></component>
+--  <component name="ProjectColorInfo"><![CDATA[{
+--  "associatedIndex": 2
+--}]]></component>
+-+}</component>
+-+  <component name="ProjectColorInfo">{
+-+  &quot;associatedIndex&quot;: 2
+-+}</component>
+-   <component name="ProjectId" id="2mVD2Yl0nfXabayJAq6X83NYEbz" />
+-   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+--    "Python.main.executor": "Run",
+--    "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "git-widget-placeholder": "rama1",
+--    "last_opened_file_path": "C:/Users/hector/Desktop/pythonProject"
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+-+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.manager.executor&quot;: &quot;Run&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;rama2&quot;,
+-+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;
+-   }
+--}]]></component>
+-+}</component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-       <recent name="C:\Users\hector\Desktop\pythonProject" />
+-     </key>
+-+    <key name="MoveFile.RECENT_KEYS">
+-+      <recent name="C:\Users\hector\Desktop\pythonProject" />
+-+    </key>
+-+  </component>
+-+  <component name="RunManager">
+-+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.main" />
+-+      </list>
+-+    </recent_temporary>
+-   </component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]" date="1727330242863" recycled="false" toDelete="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 25/09/2024 23:57 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1727330419977" recycled="false" toDelete="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_1.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36__Changes_1.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1" date="1727224608567" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_36_[Changes]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 24/09/2024 18:36 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56__Changes_.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]" date="1727330221498" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_56_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 25/09/2024 23:56 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_1.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45__Changes_1.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]1" date="1727329559669" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 25/09/2024 23:45 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,96 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/highlightthickness.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/tamaño_letra.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/tipo_letra.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/container.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/container.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/alto.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/alto.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/ancho.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/ancho.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/colores.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/colores.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/titulos.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/titulos.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"rama2\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hector3269&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,\r\n    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.manager.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;rama3&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision f92b63b71733d147a5e5c0dcf8332f8c09a68eed)
+-+++ b/.idea/workspace.xml	(date 1727224548821)
+-@@ -5,17 +5,17 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="">
+--      <change afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/tamaño_letra.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/objetos/tipo_letra.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/objetos/anchor.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/contenedores/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/contenedores/container.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/alto.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/alto.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/ancho.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/ancho.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/colores.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/colores.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/objetos/tamaño.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/highlightthickness.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/highlightthickness.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/tamaño_x.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_x.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/objetos/tamaño_y.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/tamaño_y.py" afterDir="false" />
+-       <change beforePath="$PROJECT_DIR$/objetos/titulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/objetos/titulos.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/views/inventario.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/inventario.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/views/ventas.py" beforeDir="false" afterPath="$PROJECT_DIR$/views/ventas.py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -32,7 +32,7 @@
+-   <component name="Git.Settings">
+-     <option name="RECENT_BRANCH_BY_REPOSITORY">
+-       <map>
+--        <entry key="$PROJECT_DIR$" value="rama2" />
+-+        <entry key="$PROJECT_DIR$" value="rama3" />
+-       </map>
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-@@ -62,9 +62,9 @@
+-   &quot;keyToString&quot;: {
+-     &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+-     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+--    &quot;Python.manager.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.manager.executor&quot;: &quot;Debug&quot;,
+-     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;git-widget-placeholder&quot;: &quot;rama3&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;rama4&quot;,
+-     &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;
+-   }
+- }</component>
+-@@ -76,7 +76,7 @@
+-       <recent name="C:\Users\hector\Desktop\pythonProject" />
+-     </key>
+-   </component>
+--  <component name="RunManager">
+-+  <component name="RunManager" selected="Python.main">
+-     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-       <module name="pythonProject" />
+-       <option name="ENV_FILES" value="" />
+-@@ -99,9 +99,32 @@
+-       <option name="INPUT_FILE" value="" />
+-       <method v="2" />
+-     </configuration>
+-+    <configuration name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contenedores" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contenedores/manager.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-     <recent_temporary>
+-       <list>
+-         <item itemvalue="Python.main" />
+-+        <item itemvalue="Python.manager" />
+-         <item itemvalue="Python.main" />
+-         <item itemvalue="Python.main" />
+-         <item itemvalue="Python.main" />
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,111 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"Megora de la interfas grafica\">\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/estado.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/fill.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/objetos/ubicacion.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/contenedores/container.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/contenedores/container.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/alto.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/alto.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/ancho.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/ancho.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/colores.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/colores.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_x.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/tamaño_y.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/objetos/titulos.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/objetos/titulos.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/inventario.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/inventario.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/views/ventas.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/views/ventas.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"rama1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Hector3269&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Hector3269/Proyecto_Fundap.git&quot;,\r\n    &quot;accountId&quot;: &quot;0d35b715-a6a8-4e98-846a-a20cf52847bf&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 2\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mVD2Yl0nfXabayJAq6X83NYEbz\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.manager.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;#4 on rama4&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/hector/Desktop/pythonProject&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\hector\\Desktop\\pythonProject\\objetos\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.main\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"manager\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"pythonProject\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/contenedores\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/contenedores/manager.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.main\" />\r\n        <item itemvalue=\"Python.manager\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"415db5c7-25e7-4e31-827d-485c24cdb51b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727152643273</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727152643273</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226667532</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226667532</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226712086</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226712086</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Megora de la interfas grafica\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727226726363</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727226726363</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"fde6fc99-b512-4d88-a908-28b02fd621bb\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"fde6fc99-b512-4d88-a908-28b02fd621bb\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"range\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/main..origin/rama4\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"roots\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"$PROJECT_DIR$\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Megora de la interfas grafica\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Megora de la interfas grafica\" />\r\n  </component>\r\n</project>
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision eeaf124177be86ce9ed8c30468c6927cd696ba08)
+-+++ b/.idea/workspace.xml	(date 1727330326987)
+-@@ -78,7 +78,29 @@
+-       <recent name="C:\Users\hector\Desktop\pythonProject\objetos" />
+-     </key>
+-   </component>
+--  <component name="RunManager" selected="Python.main">
+-+  <component name="RunManager">
+-+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="" />
+-+      <option name="IS_MODULE_SDK" value="false" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-       <module name="pythonProject" />
+-       <option name="ENV_FILES" value="" />
+-@@ -121,6 +143,71 @@
+-       <option name="MODULE_MODE" value="false" />
+-       <option name="REDIRECT_INPUT" value="false" />
+-       <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration default="true" type="Tox" factoryName="Tox">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="" />
+-+      <option name="IS_MODULE_SDK" value="false" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration default="true" type="docs" factoryName="Docutils task">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="" />
+-+      <option name="IS_MODULE_SDK" value="false" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="docutils_input_file" value="" />
+-+      <option name="docutils_output_file" value="" />
+-+      <option name="docutils_params" value="" />
+-+      <option name="docutils_task" value="" />
+-+      <option name="docutils_open_in_browser" value="false" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration default="true" type="docs" factoryName="Sphinx task">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="" />
+-+      <option name="IS_MODULE_SDK" value="false" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="docutils_input_file" value="" />
+-+      <option name="docutils_output_file" value="" />
+-+      <option name="docutils_params" value="" />
+-+      <option name="docutils_task" value="" />
+-+      <option name="docutils_open_in_browser" value="false" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration default="true" type="tests" factoryName="Doctests">
+-+      <module name="pythonProject" />
+-+      <option name="ENV_FILES" value="" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="" />
+-+      <option name="IS_MODULE_SDK" value="false" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <option name="SCRIPT_NAME" value="" />
+-+      <option name="CLASS_NAME" value="" />
+-+      <option name="METHOD_NAME" value="" />
+-+      <option name="FOLDER_NAME" value="" />
+-+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+-+      <option name="PATTERN" value="" />
+-+      <option name="USE_PATTERN" value="false" />
+-       <method v="2" />
+-     </configuration>
+-     <recent_temporary>
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_2.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_2.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_2.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35__Changes_2.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2" date="1727224562880" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_09_2024_18_35_[Changes]2/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 24/09/2024 18:35 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
++++ /dev/null	(revision 0dfae592a6d3eea1111482da3f7b9da43b39455d)
+@@ -1,42 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 2
+-}]]></component>
+-  <component name="ProjectId" id="2mVD2Yl0nfXabayJAq6X83NYEbz" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
+-  }
+-}]]></component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="" />
+-      <created>1727152643273</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1727152643273</updated>
+-    </task>
+-    <servers />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1727655203310)
++++ b/.idea/modules.xml	(date 1727655203310)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/pythonProject.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/pythonProject.iml b/.idea/pythonProject.iml
+new file mode 100644
+--- /dev/null	(date 1727655203261)
++++ b/.idea/pythonProject.iml	(date 1727655203261)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]1/shelved.patch
+deleted file mode 100644
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_25_09_2024_23_45_[Changes]/shelved.patch
+deleted file mode 100644
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2024_23_57_[Changes]1/shelved.patch
+deleted file mode 100644
