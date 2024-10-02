@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="Mejoras UI">
-      <change afterPath="$PROJECT_DIR$/DB/bace_datos_proyecto.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="415db5c7-25e7-4e31-827d-485c24cdb51b" name="Changes" comment="Bace de datos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +53,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rama5",
+    "git-widget-placeholder": "#7 on rama5",
     "settings.editor.selected.configurable": "com.promyze.appli.settings.AppSettingsConfigurable"
   }
 }]]></component>
@@ -121,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727840241232</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bace de datos">
+      <option name="closed" value="true" />
+      <created>1727842575277</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727842575277</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mejoras UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mejoras UI" />
+    <MESSAGE value="Bace de datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bace de datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
